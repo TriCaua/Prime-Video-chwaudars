@@ -1,3 +1,9 @@
+:root{
+    --cor-principal: #ffffff;
+    --botao-destaque: #167bf7;
+    --cor-de-fundo: #00030c;
+}
+
 *{
     margin: 0;
     padding: 0;
