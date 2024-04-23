@@ -19,3 +19,8 @@
 .container{
     height: 100vh;
 }
+.container--botao{
+background-color: var(--botao-destaque);
+color: #ffffff;
+padding: 1em;
+}
