@@ -36,7 +36,7 @@ text-decoration: none;
 display: block;
 }
 
-.bortao--secundario{
+.botao--secundario{
     background-color: transparent;
     border: 2px solid var(--cor-principal);
 }
