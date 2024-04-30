@@ -15,6 +15,8 @@
     background-image: url("img/primevideo-seo-logo\ 1.png");
     font-size: 20px;
     background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
 }
 .container{
     height: 100vh;
