@@ -19,7 +19,7 @@
 .container{
     height: 100vh;
     display: grid;
-    grid-template-columns: 10% 20%;
+    grid-template-columns: 10% 10%;
 }
 .container--botao{
 background-color: var(--botao-destaque);
