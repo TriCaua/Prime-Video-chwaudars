@@ -9,7 +9,7 @@
     padding: 0;
 }
 body{
-    color: var(--cor-de-fundo);
+    background-color: #00030c;
     font-weight: 400;
     font-size: 16px;
 }
