@@ -35,3 +35,7 @@ border-radius: 100px;
 text-decoration: none;
 display: block;
 }
+
+.container--caixa{
+    margin: 0 6em;
+}
